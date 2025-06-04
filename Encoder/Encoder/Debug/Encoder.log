@@ -1,0 +1,32 @@
+﻿  Encoder.cpp
+C:\Users\NEW\Desktop\دانشگاه\project\c\Encoder\Encoder\Encoder.cpp(286,13): warning C4101: 'lon': unreferenced local variable
+  (compiling source file '/Encoder.cpp')
+  
+C:\Users\NEW\Desktop\دانشگاه\project\c\Encoder\Encoder\Encoder.cpp(286,8): warning C4101: 'lat': unreferenced local variable
+  (compiling source file '/Encoder.cpp')
+  
+C:\Users\NEW\Desktop\دانشگاه\project\c\Encoder\Encoder\Encoder.cpp(328,8): warning C4101: 'runway_char': unreferenced local variable
+  (compiling source file '/Encoder.cpp')
+  
+C:\Users\NEW\Desktop\دانشگاه\project\c\Encoder\Encoder\Encoder.cpp(449,16): warning C4101: 'sector_id': unreferenced local variable
+  (compiling source file '/Encoder.cpp')
+  
+C:\Users\NEW\Desktop\دانشگاه\project\c\Encoder\Encoder\Encoder.cpp(849,12): warning C4477: 'printf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned char *'
+  (compiling source file '/Encoder.cpp')
+  
+C:\Users\NEW\Desktop\دانشگاه\project\c\Encoder\Encoder\Encoder.cpp(849,12): warning C4477: 'printf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned char *'
+  (compiling source file '/Encoder.cpp')
+  
+C:\Users\NEW\Desktop\دانشگاه\project\c\Encoder\Encoder\Encoder.cpp(903,6): warning C4101: 'ret': unreferenced local variable
+  (compiling source file '/Encoder.cpp')
+  
+C:\Users\NEW\Desktop\دانشگاه\project\c\Encoder\Encoder\Encoder.cpp(1220,7): warning C4101: 'file_hdr_sector_i': unreferenced local variable
+  (compiling source file '/Encoder.cpp')
+  
+C:\Users\NEW\Desktop\دانشگاه\project\c\Encoder\Encoder\Encoder.cpp(1222,6): warning C4101: 'ret': unreferenced local variable
+  (compiling source file '/Encoder.cpp')
+  
+C:\Users\NEW\Desktop\دانشگاه\project\c\Encoder\Encoder\Encoder.cpp(1219,7): warning C4101: 'file_hdr': unreferenced local variable
+  (compiling source file '/Encoder.cpp')
+  
+  Encoder.vcxproj -> C:\Users\NEW\Desktop\دانشگاه\project\c\Encoder\Debug\Encoder.exe
